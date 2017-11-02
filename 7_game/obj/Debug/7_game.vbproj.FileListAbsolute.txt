@@ -1,0 +1,24 @@
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\bin\Debug\7_game.exe
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\bin\Debug\7_game.pdb
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\bin\Debug\7_game.xml
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\_7_game.Form1.resources
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\_7_game.Resources.resources
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\7_game.vbproj.GenerateResource.Cache
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\7_game.exe
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\7_game.xml
+C:\Users\yr\AppData\Local\Temporary Projects\7_game\obj\Debug\7_game.pdb
+D:\VSWorkSpace\7_game\7_game\bin\Debug\7_game.exe.manifest
+D:\VSWorkSpace\7_game\7_game\bin\Debug\7_game.application
+D:\VSWorkSpace\7_game\7_game\bin\Debug\7_game.exe
+D:\VSWorkSpace\7_game\7_game\bin\Debug\7_game.pdb
+D:\VSWorkSpace\7_game\7_game\bin\Debug\7_game.xml
+D:\VSWorkSpace\7_game\7_game\obj\Debug\ResolveAssemblyReference.cache
+D:\VSWorkSpace\7_game\7_game\obj\Debug\_7_game.Form1.resources
+D:\VSWorkSpace\7_game\7_game\obj\Debug\_7_game.Resources.resources
+D:\VSWorkSpace\7_game\7_game\obj\Debug\7_game.vbproj.GenerateResource.Cache
+D:\VSWorkSpace\7_game\7_game\obj\Debug\7_game.exe.manifest
+D:\VSWorkSpace\7_game\7_game\obj\Debug\7_game.application
+D:\VSWorkSpace\7_game\7_game\obj\Debug\7_game.exe
+D:\VSWorkSpace\7_game\7_game\obj\Debug\7_game.xml
+D:\VSWorkSpace\7_game\7_game\obj\Debug\7_game.pdb
